@@ -9,7 +9,7 @@ const App = () => {
       <div className="h-full bg-gray-200">
         <div className="flex justify-between">
           <div className="font-extrabold h-50 w-full bg-amber-600 flex justify-center items-center border-2 border-white">
-           <img src={laptop} alt="" className="w-50 h-full"/>
+           <img src={laptop} alt="" className="w-60 h-full"/>
           </div>
           <div className="font-extrabold text-center h-50 w-full  bg-amber-500 flex justify-center items-center border-2 border-white">
             Age
